@@ -1,4 +1,3 @@
-let num = 0;
 
 function sum(num) {
 
